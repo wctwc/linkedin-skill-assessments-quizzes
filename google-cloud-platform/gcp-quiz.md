@@ -443,3 +443,10 @@ Explanation: Google does not store your keys on its servers and cannot access yo
 - [x] Cloud Storage and Big Query
 - [ ] Cloud Pub/Sub and Cloud Spanner
 - [ ] Cloud Pub/Sub and Big Query
+
+#### Q57. Cloud Genomics enables pipelines to run on top of which GCP service?
+
+- [ ] Cloud Dataflow
+- [ ] Cloud Dataproc
+- [ ] Compute Engine
+- [ ] Google Kubernetes Engine
